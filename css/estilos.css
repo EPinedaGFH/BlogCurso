@@ -3,3 +3,8 @@ body{
     font-family: "Arial";
     color: deeppink;
 }
+
+#Contenido{
+    font-size: 25px;
+    background-color: teal;
+}
